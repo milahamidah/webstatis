@@ -1,0 +1,64 @@
+body {
+    background-image: url(https://rm.id/files/konten/berita/uin-jakarta-gelar-pemilihan-rektor-20232024-begini-mekanismenya_139641.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+/* desain warna keseluruhan*/
+.container {
+    width: 900px;
+    margin: 20px auto;
+    background-color: rgb(11, 11, 71);
+    border: 5px dotted rgb(15, 67, 165);
+    padding: 25px;
+    text-align: center;
+    color: white; 
+}
+
+/* desain border judul*/
+h1 {
+    background-color: hsl(260, 2%, 24%);
+    color: white;
+    text-align: center; 
+}
+
+h3 {
+    background-color: hsl(180, 69%, 38%);
+    color: rgb(22, 21, 21);
+    text-align: center;
+}
+
+h3 {
+    list-style-type: circle;
+    text-align: center;
+    background-color: hsl(180, 69%, 38%);
+}
+
+h3 {
+    list-style-type: circle;
+    text-align: center;
+    background-color: hsl(180, 69%, 38%);
+}
+p {
+    padding: 20px;
+    text-align: justify;
+}
+
+/*desain kotak*/
+.content1 {
+    background-color: rgb(8, 38, 121);  
+}
+
+.content2 {
+    background-color: rgb(40, 53, 88);
+}
+
+.content3 {
+    background-color: rgb(8, 38, 121);  
+}
+
+.content4 {
+    background-color: rgb(40, 53, 88);
+} 
+
