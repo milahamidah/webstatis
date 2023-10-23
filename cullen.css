@@ -2,11 +2,7 @@
 
 /* CSS untuk header 1 */
 header {
-    background-color: #bd3d3d;
-    background-image: url(https://www.perpusnas.go.id/images/www/logo.png);
-    background-repeat: no-repeat;
-    background-size: 20%;
-    background-position: left;
+    background-color: #007BFF;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -15,18 +11,15 @@ header {
 
 /* CSS untuk latar belakang body */
 body {
-    background: linear-gradient(to bottom, #afc0d3, #bd3d3d); /* Gradient biru */
+    background: linear-gradient(to bottom, #afc0d3, #07d9f5); /* Gradient biru */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(https://img.freepik.com/premium-vector/seamless-pattern-with-paper-books-home-library-book-stacks-glasses-doodle-style_192280-133.jpg?w=2000);
-    background-size: cover; 
-    background-attachment: fixed;
 }
 
  *{
     scroll-behavior: smooth;
-}
+  }
 
 h1 {
     font-size: 36px;
@@ -39,7 +32,7 @@ h1 {
     display: block;
     margin: 0 auto;
     width: 750px;
-    border: 3px solid #bd3d3d;
+    border: 3px solid #007BFF;
     border-radius: 10px;
 }
 
@@ -56,7 +49,7 @@ h1 {
     text-align: justify;
 }
 
-.outline h2 {
+outline h2 {
     font-size: 24px;
 }
 
@@ -72,7 +65,7 @@ h1 {
     font-family: 'Yuji Hentaigana Akari', cursive; /* Mengubah font */
 }
 
-.list h2 {
+list h2 {
     font-size: 24px;
 }
 
@@ -91,7 +84,7 @@ li satu {
 /* CSS untuk tautan dalam list */
 ul li a {
     text-decoration: none;
-    color: #bd3d3d;
+    color: #007BFF;
     font-weight: bold; /* Teks lebih tebal */
 }
 
@@ -110,34 +103,33 @@ ul li a:hover {
     font-family: Arial, sans-serif; /* Mengubah font ke Arial */
 }
 
-.profile h2 {
+profile h2 {
     font-size: 24px;
 }
 
 /* CSS untuk kotak*/
 .box-model {
-    border: 2px solid #bd3d3d;      
+    border: 2px solid #007BFF;      
     padding: 20px;
     font-family: Arial, sans-serif; /* Mengubah font ke Arial */
 }
 
-/* CSS untuk tabel (Informasi Lantai yang berada di Perpusnas) */
+/* CSS untuk tabel (Info Lantai-lantai yang ada di Perpusnas) */
 table {
     width: 100%;
     border-collapse: collapse;
     margin: 20px auto;
     text-align: center; /* Menengahkan isi tabel */
     font-family: Arial, sans-serif; /* Mengubah font ke Arial */
-    
 }
 
 table thead {
-    background-color: #bd3d3d;
+    background-color: #007BFF;
     color: #fff;
 }
 
 table th, table td {
-    border: 1px solid #bd3d3d;
+    border: 1px solid #007BFF;
     padding: 8px;
 }
 
@@ -152,7 +144,7 @@ table th, table td {
     font-family: Arial, sans-serif; /* Mengubah font ke Arial */
 }
 
-.membership h2 {
+membership h2 {
     font-size: 24px;
 }
 
@@ -167,7 +159,7 @@ table th, table td {
     font-family: Arial, sans-serif; /* Mengubah font ke Arial */
 }
 
-.borrowing h2 {
+borrowing h2 {
     font-size: 24px;
 }
 
@@ -179,20 +171,16 @@ table th, table td {
     background-color: #f4f4f4;
     padding: 20px;
     border-radius: 10px;
-    font-family: Arial, sans-serif; /* Mengubah font ke Arial */   
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
 }
 
-.floors h2 {
+floors h2 {
     font-size: 24px;
 }
 
 .footer {
-    background-color: #bd3d3d;
+    background-color: #007BFF;
     padding-bottom: 4%;
-    text-align: center;
-    color: white;
-    padding: 3px;
-    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
 }
 
 /* CSS ICON*/
