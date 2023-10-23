@@ -26,7 +26,7 @@ body {
 
  *{
     scroll-behavior: smooth;
-  }
+}
 
 h1 {
     font-size: 36px;
@@ -56,7 +56,7 @@ h1 {
     text-align: justify;
 }
 
-outline h2 {
+.outline h2 {
     font-size: 24px;
 }
 
@@ -72,7 +72,7 @@ outline h2 {
     font-family: 'Yuji Hentaigana Akari', cursive; /* Mengubah font */
 }
 
-list h2 {
+.list h2 {
     font-size: 24px;
 }
 
@@ -182,7 +182,7 @@ table th, table td {
     font-family: Arial, sans-serif; /* Mengubah font ke Arial */   
 }
 
-floors h2 {
+.floors h2 {
     font-size: 24px;
 }
 
