@@ -19,6 +19,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url(https://img.freepik.com/premium-vector/seamless-pattern-with-paper-books-home-library-book-stacks-glasses-doodle-style_192280-133.jpg?w=2000);
+    background-size: cover; 
+    background-attachment: fixed;
 }
 
  *{
